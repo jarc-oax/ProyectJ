@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails ProyectJ: development" uuid="72ca235d-2cc7-4dfe-99f3-3b26fb1f0405">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>ProjectJ_user</user-name>
+    </data-source>
+    <data-source name="Rails ProyectJ: test" uuid="8422ea8b-7a21-4b3f-956e-4468fcfeb9e9">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>ProjectJ_user</user-name>
+    </data-source>
+    <data-source name="Rails ProyectJ: production" uuid="0b59f05a-1b98-4650-afab-a228bd676094">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>ProjectJ_user</user-name>
+    </data-source>
+  </component>
+</project>
